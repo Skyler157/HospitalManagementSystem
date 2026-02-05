@@ -1,12 +1,1 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This is a comprehensive, role-based electronic health records platform designed to digitize and streamline hospital operations across clinical, administrative, and patient-facing workflows. The system integrates medical records, triage, pharmacy, laboratory, billing, appointments, referrals, reporting, and national MOH forms into a single web-based, mobile-responsive solution. It supports granular access control for different hospital roles, advanced search, audit logging, and compliance with data protection and healthcare regulations. Enhanced with features such as analytics dashboards, voice-to-text input, offline support, interoperability with national health systems, and a patient self-service portal, the platform is built to improve efficiency, data accuracy, and quality of care delivery in modern healthcare facilities.
